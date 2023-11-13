@@ -1,0 +1,3 @@
+[submodule "hfdp-lua"]
+	path = hfdp-lua
+	url = https://github.com/usiege/hfdp-Lua
